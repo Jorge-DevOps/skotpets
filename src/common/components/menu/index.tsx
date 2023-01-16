@@ -14,6 +14,7 @@ export const Menu = () => {
                         <li className="menu-item"><a href="#0">Arnes</a></li>
                     </ol>
                 </li>
+                
                 <li className="menu-item"><a href="#0">Contacto</a></li>
             </ol>
         </nav>
